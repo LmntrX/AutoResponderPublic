@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.swierczynski.autoresponder"
+    android:versionCode="9"
+    android:versionName="1.5.2" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:largeHeap="true" >
+        <activity
+            android:name="net.swierczynski.autoresponder.Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="net.swierczynski.autoresponder.AutoResponder"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.AUTORESPONDER" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="net.swierczynski.autoresponder.preferences.UserPreferences"
+            android:label="Preferences" >
+        </activity>
+        <activity
+            android:name="net.swierczynski.autoresponder.About"
+            android:label="About" >
+        </activity>
+
+        <service android:name="net.swierczynski.autoresponder.AutoResponderService" />
+        <service android:name="net.swierczynski.autoresponder.history.SentSmsLogger" />
+    </application>
+
+</manifest>
