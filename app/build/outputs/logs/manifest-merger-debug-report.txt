@@ -1,121 +1,113 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:2:1-43:12
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:2:1-38:12
 	xmlns:android
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:2:11-69
 	package
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:3:7-47
-		INJECTED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:3:7-47
+		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:5:7-34
-		INJECTED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:5:7-34
+		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:4:7-30
-		INJECTED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:6:5-35:16
-MERGED from [com.android.support:design:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:6:5-30:16
+MERGED from [com.android.support:design:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:6:48-80
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:6:48-80
 	android:icon
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:6:18-47
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:6:18-47
 	android:largeHeap
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:7:9-33
-activity#net.swierczynski.autoresponder.Splash
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:8:9-14:20
-	android:label
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:9:13-45
-	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:8:19-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:10:13-13:29
-action#android.intent.action.MAIN
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:11:17-69
-	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:11:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:12:17-77
-	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:12:27-74
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:7:9-34
 activity#net.swierczynski.autoresponder.AutoResponder
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:15:9-21:20
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:8:9-16:20
 	android:label
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:16:13-45
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:9:13-45
 	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:15:19-48
-intent-filter#android.intent.action.AUTORESPONDER+android.intent.category.DEFAULT
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:17:13-20:29
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:8:19-48
+intent-filter#android.intent.action.AUTORESPONDER+android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:10:13-15:29
+action#android.intent.action.MAIN
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:12:27-74
 action#android.intent.action.AUTORESPONDER
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:18:17-78
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:13:17-78
 	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:18:25-75
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:13:25-75
 category#android.intent.category.DEFAULT
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:19:17-76
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:14:17-76
 	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:19:27-73
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:14:27-73
 activity#net.swierczynski.autoresponder.preferences.UserPreferences
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:23:9-25:20
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:18:9-20:20
 	android:label
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:24:7-34
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:19:7-34
 	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:23:19-62
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:18:19-62
 activity#net.swierczynski.autoresponder.About
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:27:9-29:20
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:22:9-24:20
 	android:label
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:28:7-28
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:23:7-28
 	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:27:19-40
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:22:19-40
 service#net.swierczynski.autoresponder.AutoResponderService
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:32:9-57
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:27:9-57
 	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:32:18-54
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:27:18-54
 service#net.swierczynski.autoresponder.history.SentSmsLogger
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:33:9-58
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:28:9-58
 	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:33:18-55
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:28:18-55
 uses-sdk
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:36:5-44
-MERGED from [com.android.support:design:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:31:5-44
+MERGED from [com.android.support:design:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		INJECTED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:36:15-41
-		INJECTED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:31:15-41
+		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:38:1-82
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:33:1-82
 	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:38:18-63
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:33:18-63
 uses-permission#android.permission.SEND_SMS
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:39:1-79
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:34:1-79
 	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:39:18-60
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:34:18-60
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:40:1-87
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:35:1-87
 	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:40:18-68
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:35:18-68
 uses-permission#android.permission.READ_SMS
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:41:1-79
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:36:1-79
 	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:41:18-60
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:36:18-60
 uses-permission#android.permission.WRITE_SMS
-ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:42:1-80
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:37:1-80
 	android:name
-		ADDED from /Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/AndroidManifest.xml:42:18-61
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:37:18-61

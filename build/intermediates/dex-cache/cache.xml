@@ -2,60 +2,60 @@
 <items version="2" >
 
     <item
-        jar="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_a99bc8e5404e2d4247fbd074bb66db0d27ec9b0e/classes.dex" />
-    </item>
-    <item
-        jar="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="b0b35faafbd8bc1af76552b04937c1738cea45f6">
-        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0ccb6594fcb7647f966238282cd353cf11474848/classes.dex" />
-    </item>
-    <item
-        jar="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_c79d4aa65bffaf9488189233401ce9e806cd778c/classes.dex" />
-    </item>
-    <item
-        jar="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_f5769101c4e1f2617867b2472637884b79a6f0b7/classes.dex" />
-    </item>
-    <item
-        jar="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jar="/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_c2b2a8bda6dc848425b0ea63333e046214ede46c/classes.dex" />
+        <dex dex="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_0e4af85735a340b5eaef4c257052b721c6c3556b/classes.dex" />
     </item>
     <item
-        jar="/Users/ACJLionsRoar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_636745cb1f86e9dc28451496edbacb5aaac3e8b7/classes.dex" />
-    </item>
-    <item
-        jar="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="1d87e33b947f5b395f8d1e74867e6df2761fbe93">
-        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_11cedd1fbfcba63474f9baafec8f8c8339a75aba/classes.dex" />
-    </item>
-    <item
-        jar="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jar="/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_93c4cd6a70ede1c06f0e1272742f9009ee8a6b08/classes.dex" />
+        <dex dex="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_2c4e00985684cabd292eb91da198dbec5ff7059a/classes.dex" />
+    </item>
+    <item
+        jar="/home/livin/Desktop/AutoResponder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cb11af1774eaedc1e1aeba524def9137af264926">
+        <dex dex="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d532b7c4ba3f0840b95d6cb69018fa1dc3570fbf/classes.dex" />
+    </item>
+    <item
+        jar="/home/livin/Desktop/AutoResponder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c8e622f0ef5a5f333144d1344046e7a4b806afeb">
+        <dex dex="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_61e65eef2bafc23c5685891e6fb22f73b4f0fd0b/classes.dex" />
+    </item>
+    <item
+        jar="/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_cd93b0b354a5edd178cd9dd18b6a223262a0e990/classes.dex" />
+    </item>
+    <item
+        jar="/home/livin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_7e758ee9344fa60de8e15c24914d61e777f94d40/classes.dex" />
+    </item>
+    <item
+        jar="/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_905807f7b186136a147aa84c9ed385edd0d023df/classes.dex" />
+    </item>
+    <item
+        jar="/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_65f5e290c9f49748bea0c8711ec649089e1ff0c1/classes.dex" />
     </item>
 
 </items>

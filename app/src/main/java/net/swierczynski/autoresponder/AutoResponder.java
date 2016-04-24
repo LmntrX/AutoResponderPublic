@@ -9,6 +9,9 @@ import android.app.Activity;
 import android.content.*;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
+import android.text.Editable;
+import android.text.TextWatcher;
+import android.util.Log;
 import android.view.*;
 import android.view.View.OnClickListener;
 import android.widget.*;
@@ -22,6 +25,8 @@ public class AutoResponder extends Activity {
 	
 	private AutoResponderDbAdapter dbAdapter;
 
+	private EditText callCountTxt;
+
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);		
@@ -32,7 +37,39 @@ public class AutoResponder extends Activity {
 		registerTextsCheckboxListener();
 		displayProfilesSpinner();
 		registerConfirmButtonListener();
-		EditText ed1=(EditText)findViewById(R.id.callcount);
+
+        //Call Count Registering
+		callCountTxt=(EditText)findViewById(R.id.callcount);
+
+        /*callCountTxt.setOnFocusChangeListener(new View.OnFocusChangeListener() {
+            public void onFocusChange(View view, boolean b) {
+                try {
+                    UserPreferences.setCallCountPrefs(AutoResponder.this,Integer.parseInt(callCountTxt.getText().toString()));
+                }catch (NumberFormatException e){
+                    Log.e("AutoResponder",e.getLocalizedMessage());
+                }
+            }
+        });*/
+
+        callCountTxt.addTextChangedListener(new TextWatcher() {
+            public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+
+            }
+
+            public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+                try {
+                    UserPreferences.setCallCountPrefs(AutoResponder.this,Integer.parseInt(callCountTxt.getText().toString()));
+                }catch (NumberFormatException e){
+                    Log.e("AutoResponder",e.getLocalizedMessage());
+                }
+            }
+
+            public void afterTextChanged(Editable editable) {
+
+            }
+        });
+
+
 
 	}
 

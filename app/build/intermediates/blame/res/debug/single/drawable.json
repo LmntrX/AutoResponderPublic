@@ -1,434 +1,218 @@
 [
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a24.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a24.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d7.gif",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/d7.gif"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a17.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a17.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a5.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a5.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/d10.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/d10.gif"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d3.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/d3.gif"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d2.gif",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/d2.gif"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a20.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a20.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d4.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/d4.gif"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/icon.png"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d10.gif",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/d10.gif"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/icon.png",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/icon.png"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d5.gif",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/d5.gif"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a9.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a9.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a3.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a3.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/d6.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/d6.gif"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/splashpic.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/splashpic.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a13.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a13.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d7.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/d7.gif"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a17.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a17.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a24.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a24.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a24.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a24.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a30.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a30.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d6.gif",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/d6.gif"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a11.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a11.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d1.gif",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/d1.gif"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/d8.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/d8.gif"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a1.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a1.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a17.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a17.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a9.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a9.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d2.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/d2.gif"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a39.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a39.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d8.gif",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/d8.gif"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/splashpic.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/splashpic.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a20.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a20.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a7.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a7.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a39.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a39.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a34.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a34.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/d5.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/d5.gif"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a11.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a11.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d10.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/d10.gif"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/icon.png",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/icon.png"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d3.gif",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/d3.gif"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a7.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a7.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/splashpic.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/splashpic.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a26.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a26.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a15.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a15.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/d2.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/d2.gif"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a22.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a22.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a1.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a1.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a39.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a39.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a5.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a5.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a15.jpg",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/a15.jpg"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d4.gif",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/d4.gif"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a22.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a22.jpg"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d9.gif",
+        "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/drawable/d9.gif"
     },
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a13.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a13.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d8.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/d8.gif"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a15.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a15.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a13.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a13.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d1.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/d1.gif"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a1.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a1.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/d7.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/d7.gif"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/d3.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/d3.gif"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a26.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a26.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a20.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a20.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a30.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a30.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/d4.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/d4.gif"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d9.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/d9.gif"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a7.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a7.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a3.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a3.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d5.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/d5.gif"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a34.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a34.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a11.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a11.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a5.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a5.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/d1.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/d1.gif"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a22.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a22.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a9.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a9.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a30.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a30.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/d9.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/d9.gif"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/d6.gif",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/d6.gif"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a34.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a34.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable/a3.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/src/main/res/drawable/a3.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/a26.jpg",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/src/main/res/drawable/a26.jpg"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
     }
 ]

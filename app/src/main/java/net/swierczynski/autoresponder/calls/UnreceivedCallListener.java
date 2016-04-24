@@ -4,16 +4,26 @@ import static android.telephony.TelephonyManager.CALL_STATE_IDLE;
 import static android.telephony.TelephonyManager.CALL_STATE_OFFHOOK;
 import static android.telephony.TelephonyManager.CALL_STATE_RINGING;
 import net.swierczynski.autoresponder.TxtMsgSender;
+import net.swierczynski.autoresponder.preferences.UserPreferences;
+
+import android.content.Context;
 import android.telephony.PhoneStateListener;
+import android.widget.Toast;
 
 public class UnreceivedCallListener extends PhoneStateListener {
 	private boolean callWasUnreceived = false;
 	private String phoneNumber;
 
-	private TxtMsgSender msgSender;
+    Context mctx;
+
+	private int CALL_COUNT;
+
+    private TxtMsgSender msgSender;
 	
-	public UnreceivedCallListener(TxtMsgSender msgSender) {
+	public UnreceivedCallListener(TxtMsgSender msgSender, Context mCtx) {
 		this.msgSender = msgSender;
+        this.CALL_COUNT = UserPreferences.getCallCountPrefs(mCtx);
+        this.mctx=mCtx;
 	}
 
 	@Override
@@ -42,11 +52,15 @@ public class UnreceivedCallListener extends PhoneStateListener {
 	}
 
 	private void sendMsgIfCallWasntReceived() {
-		if(callWasUnreceived && phoneNumber != null) {
+        int CURR_COUNT = UserPreferences.readCallCount(mctx, phoneNumber);
+        CURR_COUNT++;
+		if(callWasUnreceived && phoneNumber != null && CURR_COUNT == CALL_COUNT) {
 			msgSender.sendTextMessageIfPossible(phoneNumber);
-
+            UserPreferences.writeCallCount(mctx,0,phoneNumber);
 			callWasUnreceived = false;
 			phoneNumber = null;
-		}
+		}else {
+            UserPreferences.writeCallCount(mctx,CURR_COUNT,phoneNumber);
+        }
 	}
 }

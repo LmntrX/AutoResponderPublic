@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/Necotic/AutoResponder1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v23/abc_control_background_material.xml"
-    },
-    {
-        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
-        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v23/abc_control_background_material.xml"
+        "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v23/abc_control_background_material.xml"
     }
 ]

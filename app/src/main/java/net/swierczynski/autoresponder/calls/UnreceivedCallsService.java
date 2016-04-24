@@ -19,7 +19,7 @@ public class UnreceivedCallsService {
 
 	public void register() {
 		TxtMsgSender msgSender = TxtMsgSender.createAndSetUp(mCtx);
-		unreceivedCallListener = new UnreceivedCallListener(msgSender);
+		unreceivedCallListener = new UnreceivedCallListener(msgSender,mCtx);
 		TelephonyManager telephonyManager = (TelephonyManager) mCtx.getSystemService(Context.TELEPHONY_SERVICE);
 		telephonyManager.listen(unreceivedCallListener, PhoneStateListener.LISTEN_CALL_STATE);
 		isActive = true;
