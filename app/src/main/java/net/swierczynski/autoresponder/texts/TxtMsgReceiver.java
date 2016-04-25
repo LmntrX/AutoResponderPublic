@@ -25,7 +25,6 @@ public class TxtMsgReceiver extends BroadcastReceiver {
 	@Override
 	public void onReceive(Context context, Intent intent) {
 			answerToIncomingMessages(intent);
-        Log.e("ghsdghgd","jsagdagshfghasf");
 	}
 
 	private void answerToIncomingMessages(Intent intent) {
@@ -51,7 +50,6 @@ public class TxtMsgReceiver extends BroadcastReceiver {
 		String msg = msgs.toString();
         Toast.makeText(mctx,msg,Toast.LENGTH_LONG).show();
 
-        Log.e("klklklklkkl","lslslslslslsls");
 		
 		return msgs;
 	}

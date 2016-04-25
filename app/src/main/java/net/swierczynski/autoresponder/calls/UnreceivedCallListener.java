@@ -8,7 +8,6 @@ import net.swierczynski.autoresponder.preferences.UserPreferences;
 
 import android.content.Context;
 import android.telephony.PhoneStateListener;
-import android.widget.Toast;
 
 public class UnreceivedCallListener extends PhoneStateListener {
 	private boolean callWasUnreceived = false;
@@ -58,6 +57,7 @@ public class UnreceivedCallListener extends PhoneStateListener {
 			msgSender.sendTextMessageIfPossible(phoneNumber);
             UserPreferences.writeCallCount(mctx,0,phoneNumber);
 			callWasUnreceived = false;
+			UserPreferences.writeLastNotifiedNumber(mctx,phoneNumber);
 			phoneNumber = null;
 		}else {
             UserPreferences.writeCallCount(mctx,CURR_COUNT,phoneNumber);

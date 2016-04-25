@@ -17,7 +17,7 @@ public class IncomingMsgsService {
 	public void register() {
 		TxtMsgSender msgSender = TxtMsgSender.createAndSetUp(mCtx);
 		txtReceiver = new TxtMsgReceiver(msgSender,mCtx);
-		IntentFilter incomingTxtFilter = new IntentFilter("android.provider.Telephony.SMS_DELIVER");
+		IntentFilter incomingTxtFilter = new IntentFilter("android.provider.Telephony.SMS_RECEIVED_ACTION");
 		mCtx.registerReceiver(txtReceiver, incomingTxtFilter);
 		isActive = true;
 	}

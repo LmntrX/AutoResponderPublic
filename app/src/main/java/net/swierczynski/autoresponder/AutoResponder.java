@@ -84,6 +84,7 @@ public class AutoResponder extends Activity {
 				CheckBox cb = (CheckBox) v;
 				boolean enabled = cb.isChecked();
 				setServiceState(enabled, "texts");
+				UserPreferences.saveAutoRespondToTextsState(AutoResponder.this.getApplicationContext(),enabled);
 			}
 		});
 	}

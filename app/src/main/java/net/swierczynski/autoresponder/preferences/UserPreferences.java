@@ -51,5 +51,28 @@ public class UserPreferences extends PreferenceActivity {
         SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(ctx);
         return preferences.getInt("CALL_COUNT_"+phoneNumber,0);
     }
-	
+
+    public static void writeLastNotifiedNumber(Context ctx, String phoneNumber) {
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(ctx);
+        SharedPreferences.Editor editor = preferences.edit();
+        editor.putString("Last_Notified",phoneNumber);
+        editor.apply();
+    }
+
+    public static String readLastNotifiedNumber(Context ctx){
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(ctx);
+        return preferences.getString("Last_Notified","-1");
+    }
+
+    public static void saveAutoRespondToTextsState(Context ctx, boolean enabled) {
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(ctx);
+        SharedPreferences.Editor editor = preferences.edit();
+        editor.putBoolean("Auto_Respond_To_Texts_State",enabled);
+        editor.apply();
+    }
+
+    public static boolean readAutoRespondToTextsState(Context ctx){
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(ctx);
+        return preferences.getBoolean("Auto_Respond_To_Texts_State",false);
+    }
 }

@@ -1,12 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/home/livin/Desktop/AutoResponder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="bb1178b866ad896e45d5da0f9f9578c0747fce91">
-        <dex dex="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_61e65eef2bafc23c5685891e6fb22f73b4f0fd0b/classes.dex" />
-    </item>
-
-</items>
+<items version="2" />
