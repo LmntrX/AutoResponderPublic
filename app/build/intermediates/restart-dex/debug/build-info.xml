@@ -1,49 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="22"
-    density="xxhdpi"
+    density="xhdpi"
     format="7"
-    timestamp="11176391206220" >
+    timestamp="5919011603611" >
 
     <task
         name="javac"
-        duration="137" />
+        duration="107" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="62" />
+        duration="80" />
     <task
         name="verifier"
-        duration="4" />
+        duration="7" />
 
     <artifact
-        location="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-        type="DEX" />
+        location="/home/livin/Desktop/AutoResponder/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="9298344351262" >
+    <build timestamp="5919011603611" >
         <artifact
             location="/home/livin/Desktop/AutoResponder/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="11176391206220" >
-        <artifact
-            location="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

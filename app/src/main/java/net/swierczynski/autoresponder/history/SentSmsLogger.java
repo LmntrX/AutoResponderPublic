@@ -7,14 +7,15 @@ import android.os.IBinder;
 
 public class SentSmsLogger extends Service {
 
-	private static final String TELEPHON_NUMBER_FIELD_NAME = "address";
+	private static final String TELEPHONE_NUMBER_FIELD_NAME = "address";
 	private static final String MESSAGE_BODY_FIELD_NAME = "body";
-	private static final Uri SENT_MSGS_CONTET_PROVIDER = Uri.parse("content://sms/sent");
+	private static final Uri SENT_MESSAGES_CONTENT_PROVIDER = Uri.parse("content://sms/sent");
 
 	@Override
-	public void onStart(Intent intent, int startId) {
+	public int onStartCommand(Intent intent, int flags, int startId) {
 		addMessageToSentIfPossible(intent);
 		stopSelf();
+		return super.onStartCommand(intent, flags, startId);
 	}
 
 	private void addMessageToSentIfPossible(Intent intent) {
@@ -29,11 +30,11 @@ public class SentSmsLogger extends Service {
 	
 	private void addMessageToSent(String telNumber, String messageBody) {
 		ContentValues sentSms = new ContentValues();
-		sentSms.put(TELEPHON_NUMBER_FIELD_NAME, telNumber);
+		sentSms.put(TELEPHONE_NUMBER_FIELD_NAME, telNumber);
 		sentSms.put(MESSAGE_BODY_FIELD_NAME, messageBody);
 		
 		ContentResolver contentResolver = getContentResolver();
-		contentResolver.insert(SENT_MSGS_CONTET_PROVIDER, sentSms);
+		contentResolver.insert(SENT_MESSAGES_CONTENT_PROVIDER, sentSms);
 	}
 
 	@Override

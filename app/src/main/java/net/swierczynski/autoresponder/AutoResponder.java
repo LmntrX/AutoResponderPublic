@@ -1,21 +1,27 @@
 package net.swierczynski.autoresponder;
 
-import net.swierczynski.autoresponder.calls.UnreceivedCallsService;
-import net.swierczynski.autoresponder.preferences.UserPreferences;
-import net.swierczynski.autoresponder.texts.IncomingMsgsService;
-
-import android.app.ActionBar;
 import android.app.Activity;
-import android.content.*;
-import android.graphics.drawable.Drawable;
+import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
-import android.util.Log;
-import android.view.*;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
 import android.view.View.OnClickListener;
-import android.widget.*;
+import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
+import android.widget.ArrayAdapter;
+import android.widget.Button;
+import android.widget.CheckBox;
+import android.widget.EditText;
+import android.widget.Spinner;
+import android.widget.Toast;
+
+import net.swierczynski.autoresponder.calls.UnreceivedCallsService;
+import net.swierczynski.autoresponder.preferences.UserPreferences;
+import net.swierczynski.autoresponder.texts.IncomingMsgsService;
 
 public class AutoResponder extends Activity {
 
@@ -27,10 +33,17 @@ public class AutoResponder extends Activity {
 
 	private EditText callCountTxt;
 
+    private CheckBox textsCheckbox,callsCheckbox;
+
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);		
 		setContentView(R.layout.main);
+
+
+        textsCheckbox = (CheckBox) findViewById(R.id.enable_texts);
+        callsCheckbox = (CheckBox) findViewById(R.id.enable_calls);
+
 		
 		dbAdapter = AutoResponderDbAdapter.initializeDatabase(this);
 		registerCallsCheckboxListener();
@@ -41,45 +54,53 @@ public class AutoResponder extends Activity {
         //Call Count Registering
 		callCountTxt=(EditText)findViewById(R.id.callcount);
 
+		try {
+            callCountTxt.setText(UserPreferences.getCallCountPrefs(AutoResponder.this)+"");
+        }catch (RuntimeException e){
+            callCountTxt.setText("1");
+
+        }
+
         callCountTxt.addTextChangedListener(new TextWatcher() {
             public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
 
             }
 
             public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+
+            }
+
+            public void afterTextChanged(Editable editable) {
                 try {
                     UserPreferences.setCallCountPrefs(AutoResponder.this,Integer.parseInt(callCountTxt.getText().toString()));
                 }catch (NumberFormatException e){
                     UserPreferences.setCallCountPrefs(AutoResponder.this,1);
                 }
             }
-
-            public void afterTextChanged(Editable editable) {
-
-            }
         });
 
+        textsCheckbox.setChecked(UserPreferences.readAutoRespondToTextsState(AutoResponder.this));
+        callsCheckbox.setChecked(UserPreferences.readAutoRespondToMissedCalls(AutoResponder.this));
 
 
 	}
 
 	private void registerCallsCheckboxListener() {
-		final CheckBox enabledCheckbox = (CheckBox) findViewById(R.id.enable_calls);
-		enabledCheckbox.setChecked(UnreceivedCallsService.isActive);
-		enabledCheckbox.setOnClickListener(new OnClickListener() {
+		callsCheckbox.setChecked(UnreceivedCallsService.isActive);
+		callsCheckbox.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
 				CheckBox cb = (CheckBox) v;
 				boolean enabled = cb.isChecked();
 				setServiceState(enabled, "calls");
+                UserPreferences.saveAutoRespondToMissedCalls(AutoResponder.this.getApplicationContext(),enabled);
 			}
 
 		});
 	}
 	
 	private void registerTextsCheckboxListener() {
-		final CheckBox enabledCheckbox = (CheckBox) findViewById(R.id.enable_texts);
-		enabledCheckbox.setChecked(IncomingMsgsService.isActive);
-		enabledCheckbox.setOnClickListener(new OnClickListener() {
+		textsCheckbox.setChecked(IncomingMsgsService.isActive);
+		textsCheckbox.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
 				CheckBox cb = (CheckBox) v;
 				boolean enabled = cb.isChecked();

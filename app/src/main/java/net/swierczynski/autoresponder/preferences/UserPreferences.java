@@ -75,4 +75,16 @@ public class UserPreferences extends PreferenceActivity {
         SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(ctx);
         return preferences.getBoolean("Auto_Respond_To_Texts_State",false);
     }
+
+    public static void saveAutoRespondToMissedCalls(Context ctx, boolean enabled) {
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(ctx);
+        SharedPreferences.Editor editor = preferences.edit();
+        editor.putBoolean("Auto_Respond_To_Missed_Calls",enabled);
+        editor.apply();
+    }
+
+    public static boolean readAutoRespondToMissedCalls(Context ctx){
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(ctx);
+        return preferences.getBoolean("Auto_Respond_To_Missed_Calls",true);
+    }
 }
