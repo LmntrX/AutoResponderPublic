@@ -41,16 +41,6 @@ public class AutoResponder extends Activity {
         //Call Count Registering
 		callCountTxt=(EditText)findViewById(R.id.callcount);
 
-        /*callCountTxt.setOnFocusChangeListener(new View.OnFocusChangeListener() {
-            public void onFocusChange(View view, boolean b) {
-                try {
-                    UserPreferences.setCallCountPrefs(AutoResponder.this,Integer.parseInt(callCountTxt.getText().toString()));
-                }catch (NumberFormatException e){
-                    Log.e("AutoResponder",e.getLocalizedMessage());
-                }
-            }
-        });*/
-
         callCountTxt.addTextChangedListener(new TextWatcher() {
             public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
 
@@ -60,7 +50,7 @@ public class AutoResponder extends Activity {
                 try {
                     UserPreferences.setCallCountPrefs(AutoResponder.this,Integer.parseInt(callCountTxt.getText().toString()));
                 }catch (NumberFormatException e){
-                    Log.e("AutoResponder",e.getLocalizedMessage());
+                    UserPreferences.setCallCountPrefs(AutoResponder.this,1);
                 }
             }
 

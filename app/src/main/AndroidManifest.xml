@@ -22,17 +22,23 @@
         <activity android:name=".About"
 				  android:label="About">
         </activity>
-
         
         <service android:name=".AutoResponderService" />
         <service android:name=".history.SentSmsLogger" />
 
+        <receiver android:name=".texts.IncomingSms"
+            android:permission="android.permission.BROADCAST_SMS">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_DELIVER" />
+            </intent-filter>
+        </receiver>
+
 	</application>
     <uses-sdk android:minSdkVersion="19" />
 
-<uses-permission android:name="android.permission.RECEIVE_SMS"></uses-permission>
-<uses-permission android:name="android.permission.SEND_SMS"></uses-permission>
-<uses-permission android:name="android.permission.READ_PHONE_STATE"></uses-permission>
-<uses-permission android:name="android.permission.READ_SMS"></uses-permission>
-<uses-permission android:name="android.permission.WRITE_SMS"></uses-permission>
+<uses-permission android:name="android.permission.RECEIVE_SMS"/>
+<uses-permission android:name="android.permission.SEND_SMS"/>
+<uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+<uses-permission android:name="android.permission.READ_SMS"/>
+<uses-permission android:name="android.permission.WRITE_SMS"/>
 </manifest>  

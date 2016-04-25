@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:2:1-38:12
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:2:1-44:12
 	xmlns:android
 		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:2:11-69
 	package
@@ -16,7 +16,7 @@ ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:2:
 		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
 		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:6:5-30:16
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:6:5-36:16
 MERGED from [com.android.support:design:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
@@ -67,15 +67,27 @@ ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:22
 	android:name
 		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:22:19-40
 service#net.swierczynski.autoresponder.AutoResponderService
-ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:27:9-57
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:26:9-57
 	android:name
-		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:27:18-54
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:26:18-54
 service#net.swierczynski.autoresponder.history.SentSmsLogger
-ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:28:9-58
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:27:9-58
 	android:name
-		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:28:18-55
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:27:18-55
+receiver#net.swierczynski.autoresponder.texts.IncomingSms
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:29:9-34:20
+	android:permission
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:30:13-66
+	android:name
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:29:19-52
+intent-filter#android.provider.Telephony.SMS_DELIVER
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:31:13-33:29
+action#android.provider.Telephony.SMS_DELIVER
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:32:17-81
+	android:name
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:32:25-78
 uses-sdk
-ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:31:5-44
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:37:5-44
 MERGED from [com.android.support:design:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.1.1] /home/livin/Desktop/AutoResponder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
@@ -88,26 +100,26 @@ MERGED from [com.android.support:support-v4:23.1.1] /home/livin/Desktop/AutoResp
 		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
 		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:31:15-41
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:37:15-41
 		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
 		INJECTED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:33:1-82
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:39:1-65
 	android:name
-		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:33:18-63
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:39:18-63
 uses-permission#android.permission.SEND_SMS
-ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:34:1-79
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:40:1-62
 	android:name
-		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:34:18-60
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:40:18-60
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:35:1-87
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:41:1-70
 	android:name
-		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:35:18-68
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:41:18-68
 uses-permission#android.permission.READ_SMS
-ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:36:1-79
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:42:1-62
 	android:name
-		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:36:18-60
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:42:18-60
 uses-permission#android.permission.WRITE_SMS
-ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:37:1-80
+ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:43:1-63
 	android:name
-		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:37:18-61
+		ADDED from /home/livin/Desktop/AutoResponder/app/src/main/AndroidManifest.xml:43:18-61

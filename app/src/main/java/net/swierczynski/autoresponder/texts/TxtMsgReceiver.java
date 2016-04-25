@@ -8,20 +8,24 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.telephony.gsm.SmsMessage;
+import android.util.Log;
+import android.widget.Toast;
 
 public class TxtMsgReceiver extends BroadcastReceiver {
 
 	private TxtMsgSender msgSender;
 
-	public TxtMsgReceiver(TxtMsgSender msgSender) {
+    Context mctx;
+
+	public TxtMsgReceiver(TxtMsgSender msgSender, Context mctx) {
 		this.msgSender = msgSender;
+        this.mctx = mctx;
 	}
 
 	@Override
 	public void onReceive(Context context, Intent intent) {
-		if(intent.getAction().equals("android.provider.Telephony.SMS_RECEIVED")) {
 			answerToIncomingMessages(intent);
-		}
+        Log.e("ghsdghgd","jsagdagshfghasf");
 	}
 
 	private void answerToIncomingMessages(Intent intent) {
@@ -43,6 +47,11 @@ public class TxtMsgReceiver extends BroadcastReceiver {
 				msgs[i] = msg;
 			}
 		}
+
+		String msg = msgs.toString();
+        Toast.makeText(mctx,msg,Toast.LENGTH_LONG).show();
+
+        Log.e("klklklklkkl","lslslslslslsls");
 		
 		return msgs;
 	}
