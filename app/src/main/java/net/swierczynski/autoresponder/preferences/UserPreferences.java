@@ -87,4 +87,16 @@ public class UserPreferences extends PreferenceActivity {
         SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(ctx);
         return preferences.getBoolean("Auto_Respond_To_Missed_Calls",true);
     }
+
+    public static void notAnyMore(Context ctx){
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(ctx);
+        SharedPreferences.Editor editor = preferences.edit();
+        editor.putBoolean("First_Open",false);
+        editor.apply();
+    }
+
+    public static boolean isItFirstTime(Context ctx){
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(ctx);
+        return preferences.getBoolean("First_Open",true);
+    }
 }

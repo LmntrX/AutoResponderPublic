@@ -1,0 +1,8 @@
+CHANGED,/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/net/swierczynski/autoresponder/AutoResponder$override.class
+CHANGED,/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/net/swierczynski/autoresponder/AutoResponder$5$override.class
+CHANGED,/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/net/swierczynski/autoresponder/AutoResponder$3$override.class
+CHANGED,/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/net/swierczynski/autoresponder/preferences/UserPreferences$override.class
+CHANGED,/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/net/swierczynski/autoresponder/AutoResponder$4$override.class
+CHANGED,/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/net/swierczynski/autoresponder/AutoResponder$2$override.class
+CHANGED,/home/livin/Desktop/AutoResponder/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/net/swierczynski/autoresponder/texts/IncomingSms$override.class

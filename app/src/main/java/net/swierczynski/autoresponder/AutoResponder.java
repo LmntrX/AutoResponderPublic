@@ -79,9 +79,14 @@ public class AutoResponder extends Activity {
             }
         });
 
-        textsCheckbox.setChecked(UserPreferences.readAutoRespondToTextsState(AutoResponder.this));
-        callsCheckbox.setChecked(UserPreferences.readAutoRespondToMissedCalls(AutoResponder.this));
-
+		if (UserPreferences.isItFirstTime(AutoResponder.this)){
+            textsCheckbox.setChecked(false);
+            callsCheckbox.setChecked(false);
+            UserPreferences.notAnyMore(AutoResponder.this);
+        }else {
+            textsCheckbox.setChecked(UserPreferences.readAutoRespondToTextsState(AutoResponder.this));
+            callsCheckbox.setChecked(UserPreferences.readAutoRespondToMissedCalls(AutoResponder.this));
+        }
 
 	}
 

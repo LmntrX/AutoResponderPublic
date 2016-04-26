@@ -66,14 +66,15 @@ public class IncomingSms extends BroadcastReceiver {
 
     private void notifyUser(String no){
         Intent callIntent = new Intent(Intent.ACTION_CALL);
-        PendingIntent pendingIntent = PendingIntent.getService(AR_Application.getContext(),0,callIntent,PendingIntent.FLAG_CANCEL_CURRENT);
         callIntent.setData(Uri.parse("tel:"+no));
-        NotificationCompat.Action callAction = new NotificationCompat.Action(
-                android.R.drawable.ic_menu_call,"",pendingIntent);
+        PendingIntent pendingIntent = PendingIntent.getService(AR_Application.getContext(),0,callIntent,PendingIntent.FLAG_CANCEL_CURRENT);
         NotificationCompat.Builder notificationBuilder = new NotificationCompat.Builder(AR_Application.getContext());
         notificationBuilder.setSmallIcon(R.drawable.icon)
-                .setContentTitle("Missed Urgent Call From "+no)
-                .addAction(callAction);
+                .setContentTitle("Missed Urgent Call")
+                .setContentText(no)
+                .setContentIntent(pendingIntent)
+                .setAutoCancel(true)
+                .setSound(RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION));
         Notification notification = notificationBuilder.build();
         NotificationManager notificationManager = (NotificationManager) AR_Application.getContext().getSystemService(Context.NOTIFICATION_SERVICE);
         notificationManager.notify(45,notification);
@@ -90,20 +91,14 @@ public class IncomingSms extends BroadcastReceiver {
                     Vibrator v = (Vibrator) mCtx.getSystemService(Context.VIBRATOR_SERVICE);
                     //v.vibrate(10000);
                     notifyUser(phoneNumber);
-                    v.vibrate(new long[]{75, 25, 75, 25, 75, 25, 75, 525, 75, 25, 75, 25, 75, 25, 75, 25, 75,
+                    v.vibrate(new long[]{1000,1000,1000,1000},-1);
+                    /*v.vibrate(new long[]{75, 25, 75, 25, 75, 25, 75, 525, 75, 25, 75, 25, 75, 25, 75, 25, 75,
                             25, 75, 25, 75, 225, 75, 25, 75, 25, 75, 25, 75, 225, 75, 25, 75, 25, 75, 25, 75,
                             525, 75, 25, 75, 25, 75, 25, 75, 25, 75, 25, 75, 25, 75, 225, 75, 25, 75, 25, 75,
                             25, 75, 225, 75, 25, 75, 25, 75, 25, 75, 525, 75, 25, 75, 25, 75, 25, 75, 25, 75,
                             25, 75, 25, 75, 225, 75, 25, 75, 25, 75, 25, 75, 225, 75, 25, 75, 25, 75, 25, 75,
                             525, 75, 25, 75, 25, 75, 25, 75, 25, 75, 25, 75, 25, 75, 225, 75, 25, 75, 25, 75,
-                            25, 75, 225},-1);
-                    try {
-                        Uri notification = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);
-                        Ringtone r = RingtoneManager.getRingtone(AR_Application.getContext(), notification);
-                        r.play();
-                    } catch (Exception e) {
-                        e.printStackTrace();
-                    }
+                            25, 75, 225},-1);*/
 
                     UserPreferences.writeLastNotifiedNumber(mCtx,"-1");
                 }
