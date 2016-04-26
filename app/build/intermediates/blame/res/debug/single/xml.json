@@ -2,5 +2,9 @@
     {
         "merged": "/home/livin/Desktop/AutoResponder/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/home/livin/Desktop/AutoResponder/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponderPublic/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/ACJLionsRoar/AndroidStudioProjects/AutoResponderPublic/app/src/main/res/xml/preferences.xml"
     }
 ]
